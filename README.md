@@ -1,2 +1,2 @@
 # Proje1
-that is a simply text file save project
+that is a simply note book project
